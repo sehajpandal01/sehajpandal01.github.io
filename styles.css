@@ -1,7 +1,24 @@
 img {
-    width: 200px;
+    width: 00px;
+}
+img {
 }
 body {
-    text-align: center;
-    font-family: "Arial";
+    text-align: left;
+    font-family: "Comic Sans MS";
+    color: orange;
+    font-size: 36px;
+    background-image: url(http://pluspng.com/img-png/calculator-hd-png-tag-hd-calculator-wallpapers-backgrounds-and-pictures-for-free-joel-raines-1024.png);
+    background-color: black;
+    background-size: 1700px;
 }
+h1 {
+    font-size: 42px;
+    color: white;
+}
+p {
+    font-size: 35px;
+    color: red;
+    
+}
+
